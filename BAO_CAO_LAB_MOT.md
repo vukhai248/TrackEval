@@ -5,7 +5,7 @@
 | STT | Họ và Tên | Mã Sinh Viên | Vai Trò / Phân Công Nhiệm Vụ |
 |:---:|---|:---:|---|
 | **1** | **Vũ Gia Khải** *(Trưởng nhóm)* | `2A202602786` | Thiết lập môi trường, cấu hình bộ công cụ TrackEval, sửa lỗi tương thích NumPy 2.x, tích hợp pipeline đánh giá tự động. |
-| **2** | *[Điền Tên Thành Viên 2]* | *[Điền MSSV 2]* | Thu thập dữ liệu mẫu, chuẩn hoá nhãn Ground-Truth / Tracker, chạy thực nghiệm so sánh các thuật toán và phân tích số liệu. |
+| **2** | **Phạm Văn Kiên** | `2A202602590` | Thu thập dữ liệu mẫu, chuẩn hoá nhãn Ground-Truth / Tracker, chạy thực nghiệm so sánh các thuật toán và phân tích số liệu. |
 
 - **Lớp / Khóa:** ...
 - **Đề tài / Bài Lab:** Đánh giá và so sánh hiệu năng các thuật toán Multi-Object Tracking (MOT) bằng bộ chỉ số HOTA, MOTA và IDF1.
